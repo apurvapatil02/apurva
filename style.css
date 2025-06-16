@@ -1,0 +1,148 @@
+#A1
+{
+    background-color: #119e6f;
+    height: 300px;
+    width: 350px;
+    float: left;
+    margin: 40px;
+}
+
+#A2
+{
+    background-color: #961062;
+    height: 300px;
+    width: 830px;
+    float: right;
+    margin: 40px;
+}
+
+#A3
+{
+    background-color: #831515;
+    height: 300px;
+    width: 370px;
+    float: left;
+    margin:40px; 
+}
+
+#A4
+{
+    background-color: #871fb1;
+    height: 300px;
+    width: 370px;
+    float: right;
+    margin:40px; 
+}
+#A5
+{
+    background-color: #076a91;
+    height: 300px;
+    width: 370px;
+    float: left;
+    margin:40px; 
+}
+
+
+#v1
+{
+    background-color: #38044d;
+    height: 250px;
+    width: auto;
+}
+
+#v2
+{
+    background-color: #d311b9;
+    height: 250px;
+    width: 470px;
+    float: left;   
+}
+#v3
+{
+    background-color: #790707;
+    height: 250px;
+    width: 471px;
+    float: left; 
+}
+#v4
+{
+    background-color: #06685b;
+    height: 250px;
+    width: 475px;
+    float: right;
+    
+}
+#v5
+{
+    background-color: #bb9310;
+    height: 200px;
+    width: auto;   
+}
+ 
+.v6
+{
+    background-image: url(nashik.jpg);
+    height: 250px;
+    width: 300px;
+    float: right;
+    margin: 10px;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.S1
+{
+    background-image:url(nashik.jpg);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    float: left;
+    margin: 40px;
+ }
+
+ .S2
+{
+    background-image:url(mumbai.jpg);
+    height: 600px;
+    width: 600px;
+    background-repeat: no-repeat;
+    float: right;
+    margin: 40px;
+ }
